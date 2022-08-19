@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c141b3-5c78-4d8d-85b2-8450dd0cb80b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMinFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrintOnlyEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DuplicateValueInTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FIndElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoDArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,47 +46,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.MaxMinFromArray">
-    <configuration name="MaxMinFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxMinFromArray" />
+}]]></component>
+  <component name="RunManager" selected="Application.MyHashMap">
+    <configuration name="CountNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountNotes" />
       <module name="Java-SE.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyArray" />
+    <configuration name="FIndElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIndElementInArray" />
       <module name="Java-SE.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFunctions" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyArrayList" />
       <module name="Java-SE.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOnlyEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintOnlyEvenNumbers" />
+    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyHashMap" />
       <module name="Java-SE.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfArray" />
+    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDArray" />
       <module name="Java-SE.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxMinFromArray" />
-        <item itemvalue="Application.SumOfArray" />
-        <item itemvalue="Application.PrintOnlyEvenNumbers" />
-        <item itemvalue="Application.MyArray" />
-        <item itemvalue="Application.MyFunctions" />
+        <item itemvalue="Application.MyHashMap" />
+        <item itemvalue="Application.MyArrayList" />
+        <item itemvalue="Application.TwoDArray" />
+        <item itemvalue="Application.CountNotes" />
+        <item itemvalue="Application.FIndElementInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +112,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660844031467</updated>
       <workItem from="1660844033053" duration="4481000" />
-      <workItem from="1660884422013" duration="3843000" />
+      <workItem from="1660884422013" duration="4192000" />
+      <workItem from="1660897982864" duration="5586000" />
     </task>
     <servers />
   </component>
