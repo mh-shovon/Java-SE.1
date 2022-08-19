@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c141b3-5c78-4d8d-85b2-8450dd0cb80b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMinFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrintOnlyEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +36,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DXSeQg9G2m320uQfdo4d22deNP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MyArray">
+}</component>
+  <component name="RunManager" selected="Application.MaxMinFromArray">
+    <configuration name="MaxMinFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxMinFromArray" />
+      <module name="Java-SE.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyArray" />
       <module name="Java-SE.main" />
@@ -62,8 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintOnlyEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintOnlyEvenNumbers" />
+      <module name="Java-SE.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfArray" />
+      <module name="Java-SE.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxMinFromArray" />
+        <item itemvalue="Application.SumOfArray" />
+        <item itemvalue="Application.PrintOnlyEvenNumbers" />
         <item itemvalue="Application.MyArray" />
         <item itemvalue="Application.MyFunctions" />
       </list>
@@ -77,7 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660844031467</updated>
-      <workItem from="1660844033053" duration="4214000" />
+      <workItem from="1660844033053" duration="4481000" />
+      <workItem from="1660884422013" duration="3843000" />
     </task>
     <servers />
   </component>

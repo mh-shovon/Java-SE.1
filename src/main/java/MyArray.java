@@ -25,5 +25,10 @@ public class MyArray {
         for (int j = 0; j < fruits.length; j++) {
             System.out.println("I like to eat " + fruits[j]);
         }
+
+        String fish[] = {"Elish", "Rui", "Katla", "Pabda", "Puti"};
+        for (String c: fish) {
+            System.out.println("I like to eat " + c);
+        }
     }
 }
